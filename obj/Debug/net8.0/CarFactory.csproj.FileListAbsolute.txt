@@ -1,0 +1,14 @@
+C:\Project\Factory\CarFactory\bin\Debug\net8.0\CarFactory.exe
+C:\Project\Factory\CarFactory\bin\Debug\net8.0\CarFactory.deps.json
+C:\Project\Factory\CarFactory\bin\Debug\net8.0\CarFactory.runtimeconfig.json
+C:\Project\Factory\CarFactory\bin\Debug\net8.0\CarFactory.dll
+C:\Project\Factory\CarFactory\bin\Debug\net8.0\CarFactory.pdb
+C:\Project\Factory\CarFactory\obj\Debug\net8.0\CarFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Factory\CarFactory\obj\Debug\net8.0\CarFactory.AssemblyInfoInputs.cache
+C:\Project\Factory\CarFactory\obj\Debug\net8.0\CarFactory.AssemblyInfo.cs
+C:\Project\Factory\CarFactory\obj\Debug\net8.0\CarFactory.csproj.CoreCompileInputs.cache
+C:\Project\Factory\CarFactory\obj\Debug\net8.0\CarFactory.dll
+C:\Project\Factory\CarFactory\obj\Debug\net8.0\refint\CarFactory.dll
+C:\Project\Factory\CarFactory\obj\Debug\net8.0\CarFactory.pdb
+C:\Project\Factory\CarFactory\obj\Debug\net8.0\CarFactory.genruntimeconfig.cache
+C:\Project\Factory\CarFactory\obj\Debug\net8.0\ref\CarFactory.dll
